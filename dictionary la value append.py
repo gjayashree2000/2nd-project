@@ -12,7 +12,7 @@ for i in range (n):
     value=int(input("enter the value"))
     dic[key]=value
 print(dic)
-
+vino
 #sort the key
 sorted(dic.keys())
 print(sorted(dic.keys()))
